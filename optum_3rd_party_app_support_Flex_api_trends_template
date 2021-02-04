@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:45:34.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" version="14.2.9" etag="EPPu6JGJg4_xlY6RwOJD" type="github"><diagram id="1iBdVcwxptlH7Udy9OjP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:14:31.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="_CTMrQVxgW-d0F_Lkl_i" version="14.2.9" type="github">
+  <diagram id="1iBdVcwxptlH7Udy9OjP" name="Page-1">
+    <mxGraphModel dx="1298" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=55;" vertex="1" parent="1">
+          <mxGeometry x="11" y="109" width="820" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-3" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Overall API Endpoint calls - Trend&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;(Trend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=45;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="25" y="180" width="791" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-4" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;div&gt;API Calls by Vendor - Trend&lt;/div&gt;&lt;div&gt;(Trend)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=45;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="25" y="257" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-7" value="&lt;div&gt;API Calls by Applicaiton - Trend&lt;/div&gt;&lt;div&gt;(Trend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="425" y="257" width="391" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-8" value="&lt;div&gt;Average API Calls per day by Vendor - Trend&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Trend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="25" y="334" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-9" value="Average API Calls per day by Appplication - Trend (Trend)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="425" y="334" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-10" value="&lt;div&gt;Public Count&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="25" y="410" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-11" value="&lt;div&gt;Patient Count&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="166" y="410" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-12" value="&lt;div&gt;Patient Count&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="303" y="410" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-13" value="&lt;div&gt;Patient Count&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="565" y="410" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-14" value="&lt;div&gt;Top Organization Timechart&lt;/div&gt;&lt;div&gt;(Trend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="166" y="488" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-15" value="&lt;div&gt;Top Organization&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="25" y="488" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-16" value="&lt;div&gt;Top Application&lt;/div&gt;&lt;div&gt;(Count)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="428" y="488" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-17" value="&lt;div&gt;Top Application Timechart&lt;/div&gt;&lt;div&gt;(Trend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="565" y="488" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-18" value="Build Status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;opacity=45;fontColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=16;fontColor=#336600;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=16;fontColor=#336600;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-21" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ff3333&quot;&gt;Completed&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;opacity=45;fontColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnsXSEUxqUtflCUG8nn-22" value="&lt;font style=&quot;font-size: 12px&quot;&gt;To be Started&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;opacity=45;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="257" y="620" width="75" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
